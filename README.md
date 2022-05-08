@@ -10,4 +10,4 @@ consiste da implementação de funcionalidade no lado cliente de uma aplicação
 
 ##### Maria Carolina Lopes Braulino
 
-##### Eng. De Controle e Automação.
+##### Eng. De Controle e Automação
