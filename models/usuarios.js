@@ -60,7 +60,7 @@ const usuario =  new Schema({
     adm :{
 
         type: Number,
-        default:1
+        default:0
 
     }     
  
