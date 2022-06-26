@@ -1,8 +1,8 @@
 # UTFPR-Programacao-web
 
-### PROJETO 3 - JavaScript e AJAX:
+### PROJETO 3 - Express.js e AJAX:
 
-consiste da implementação de funcionalidade no lado cliente de uma aplicação web, utilizando principalmente JavaScript e integração com APIs abertas de dados.
+consiste da implementacao de funcionalidade do lado servidor de uma aplicacao web, utilizando a plataforma Node.js. Deve tambem ser implementado o lado cliente de uma aplicacao e essa aplicacao deve ser integrada ao servidor.
 
 #### Deploy do projeto - Heroko https://progweb-projeto3.herokuapp.com
 
