@@ -3,6 +3,7 @@ const mongoose = require('mongoose')
 //const bcrypt = require('bcryptjs')
 
 
+
 require("../models/usuarios")
 const Usuario = mongoose.model("usuarios")
 

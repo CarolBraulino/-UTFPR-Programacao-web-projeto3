@@ -151,10 +151,7 @@ router.post('/cadastrar', (req, res) => {
                     })
                 })
             
-                //new Usuario(novoCadastro).save().then(function () {
-                    //res.flash("sucesso_msg", "Sucesso!"),
-                    //console.log("Usuario cadastrado com sucesso!")
-                //})
+                
             }
         })        
     }

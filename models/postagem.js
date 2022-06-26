@@ -6,6 +6,7 @@ const postagem = new Schema({
         type: String,
         require: true
     },
+    
     author: {
         type: String,
         require: true

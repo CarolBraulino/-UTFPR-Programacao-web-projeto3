@@ -7,6 +7,7 @@ const usuario =  new Schema({
         type: Object
     },
     
+    
     nome: {
         type: String,
         require: true
